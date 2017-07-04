@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/dao/CourseDao.java=UTF-8
+encoding//src/main/java/dao/PersonDao.java=UTF-8
+encoding//src/main/java/dao/PlanOfStudyDao.java=UTF-8
+encoding//src/main/java/mockDao/PersonDaoImpl.java=UTF-8
